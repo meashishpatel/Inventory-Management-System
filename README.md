@@ -13,9 +13,9 @@ This system provides a user-friendly interface for managing inventory with the f
 
 
 ## Getting Started
-..* Clone the repository to your local machine.
-..* Ensure you have the required dependencies installed (tkinter, PIL, sqlite3).
-..* Run the main.py file to launch the application.
+* Clone the repository to your local machine.
+* Ensure you have the required dependencies installed (tkinter, PIL, sqlite3).
+* Run the main.py file to launch the application.
 
 
 ## Features
